@@ -1,5 +1,9 @@
 # dice-game
-The PIG Dice Game Using JavaScript
+The PIG Dice Game Using JavaScript.
+
+Whether you are stuck in a waiting room, needing entertainment at a restaurant, or looking for a simple game while on vacation, Pig is the perfect way to pass the time with friends and family. And all you need is this web app that I built.
+
+Pig is considered a jeopardy game, where you risk everything to see if you can win more. The numbers on the die (except for "1") each represent points that can accumulate—the winner is the first player to reach 100 points.
 
 ## Rules of the Game: 
 
