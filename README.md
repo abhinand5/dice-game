@@ -1,7 +1,7 @@
 # dice-game
 The PIG Dice Game Using JavaScript
 
-#Rules of the Game: 
+## Rules of the Game: 
 
 On a turn, a player rolls the die repeatedly. The goal is to accumulate as many points as possible, adding up the numbers rolled on the die. However, if a player rolls a 1, the player's turn is over and any points they have accumulated during this turn are forfeited. Rolling a 1 doesn't wipe out your entire score, just the total earned during that particular roll.
 
@@ -9,7 +9,7 @@ A player can also choose to hold (stop rolling) if they do not want to take a ch
 
 When a player reaches a total of 100 or more points, the game ends and that player is the winner.
 
-#Scoring Examples
+## Scoring Examples
 
 Here are two examples of how to keep score in Pig: 
 
