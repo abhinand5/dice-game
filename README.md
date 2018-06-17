@@ -1,4 +1,4 @@
-# dice-game
+# The Dice Game
 The PIG Dice Game Using JavaScript.
 
 Whether you are stuck in a waiting room, needing entertainment at a restaurant, or looking for a simple game while on vacation, Pig is the perfect way to pass the time with friends and family. And all you need is this web app that I built.
